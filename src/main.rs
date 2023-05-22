@@ -1,3 +1,4 @@
+//This Code Is For The Function "calculate_balance_changes"
 function calculate_balance_changes(multi_send_tx, original_balances, burn_rate, commission_rate) {
   //Calculate Total Input 
   let total_input = 0;
